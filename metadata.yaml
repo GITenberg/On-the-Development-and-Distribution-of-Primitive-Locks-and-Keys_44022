@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42518
     wikipedia: http://en.wikipedia.org/wiki/Augustus_Pitt_Rivers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44022#On-the-Development-and-Distribution-of-Primitive-Locks-and-Keys
 gutenberg_issued: '2013-10-25'
 gutenberg_type: Text
 identifiers:
