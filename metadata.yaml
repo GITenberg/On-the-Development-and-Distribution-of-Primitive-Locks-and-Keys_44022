@@ -1,0 +1,34 @@
+_repo: On-the-Development-and-Distribution-of-Primitive-Locks-and-Keys_44022
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44022-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pitt-Rivers, Augustus Henry Lane-Fox
+    aliases:
+    - Fox, A. H. Lane (Augustus Henry Lane)
+    - Pitt-Rivers, A. Lane-Fox (Augustus Lane-Fox)
+    - Fox, A. Lane (Augustus Lane)
+    - Fox, Augustus Henry Lane
+    - Fox-Pitt-Rivers, Augustus Henry Lane
+    - Lane-Fox, Augustus Henry
+    birthdate: 1827
+    deathdate: 1900
+    gutenberg_agent_id: '42518'
+    url: http://www.gutenberg.org/2009/agents/42518
+    wikipedia: http://en.wikipedia.org/wiki/Augustus_Pitt_Rivers
+description: ''
+gutenberg_issued: '2013-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Locks and keys'
+- !lcc 'TS'
+title: On the Development and Distribution of Primitive Locks and Keys
+url: http://www.gutenberg.org/ebooks/44022
