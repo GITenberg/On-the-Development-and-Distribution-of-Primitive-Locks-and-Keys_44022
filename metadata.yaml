@@ -32,5 +32,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Locks and keys'
 - !lcc 'TS'
+- GITenberg
 title: On the Development and Distribution of Primitive Locks and Keys
 url: http://www.gutenberg.org/ebooks/44022
